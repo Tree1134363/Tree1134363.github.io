@@ -1,0 +1,30 @@
+/* Allgemeine Stile für den Container */
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+/* Stil für Überschriften */
+h1 {
+    font-size: 24px;
+    color: brown;
+    margin-top: 20px;
+}
+
+/* Stil für Download-Schaltflächen */
+.download-button {
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.download-button:hover {
+    transform: scale(1.1);
+}
+
+/* Stil für den Link auf Downloadseiten */
+a {
+    text-decoration: none;
+}

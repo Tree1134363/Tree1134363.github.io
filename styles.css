@@ -9,6 +9,7 @@ h1 {
     font-size: 24px;
     color: brown;
     margin-top: 20px;
+    font-family: 'Inconsolata', monospace;
 }
 
 /* Stil für Download-Schaltflächen */
